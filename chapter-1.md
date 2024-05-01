@@ -1,7 +1,5 @@
 # Et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque.
 
-Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat. Itaque earum rerum hic tenetur a sapiente delectus. Fugiat quo voluptas nulla pariatur? Fugiat quo voluptas nulla pariatur?
-
 __eque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.__ *Duis aute irure dolor in reprehenderit in voluptate velit.* Do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
